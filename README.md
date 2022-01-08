@@ -2,7 +2,7 @@
 - 👀 Soy un apasionado por la tecnología y el trabajo colaborativo en las organizaciones.
 - 🌱 Soy técnico de sistemas, Community Manager, y estudiante de ingeniería de sistemas.
 - 💻 Desarrollador Web en: https://powerteltec.com/
-- 💞️ Me gustaría colaborar en proyectos pequeños y medianos.
+- 💞️ Me gustaría trabajar en proyectos pequeños y medianos.
 
 # Hablemos de negocios
 <p align="center">
