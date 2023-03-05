@@ -1,7 +1,7 @@
 - 👋 Hola, mi nombre es Kevin Gómez Cantillo.
 - 👀 Soy un apasionado por la tecnología y el trabajo colaborativo en las organizaciones.
 - 🌱 Soy técnico de sistemas, Developer Backend y Community Manager estudiante de ingeniería de sistemas en: https://www.unicesar.edu.co/index.php/es/
-- 💻 Desarrollador Web en: https://powerteltec.com/
+- 💻 Desarrollador Web en: https://clickmenu.online/
 
 
 # Hablemos de negocios
