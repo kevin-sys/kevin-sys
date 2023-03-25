@@ -48,6 +48,22 @@
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/919/919856.png" alt="Build Status" height=50></a>
 <label><b></b></label>
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Build Status" height=50></a>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="Build Status" height=50></a>
+<label><b></b></label>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5136/5136897.png" alt="Build Status" height=50></a>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png" alt="Build Status" height=50></a>
+<label><b></b></label>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/4926/4926624.png" alt="Build Status" height=50></a>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/4319/4319210.png" alt="Build Status" height=50></a>
+<label><b></b></label>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/888/888839.png" alt="Build Status" height=50></a>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Build Status" height=50></a>
+<label><b></b></label>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Build Status" height=50></a>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Build Status" height=50></a>
+<label><b></b></label>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3967/3967189.png" alt="Build Status" height=50></a>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" alt="Build Status" height=50></a>
 </p>
 
 
