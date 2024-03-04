@@ -69,6 +69,10 @@
 <label><b></b></label>
 <a href="#"><img src="https://www.chip.gov.co/schip_rt/plantillas/images/logochip-01.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://www.cundinamarca.gov.co/wcm/connect/45b42bd7-39ae-481a-836f-a428768d10ad/contra%2Bgen.jpg?MOD=AJPERES&CACHEID=ROOTWORKSPACE-45b42bd7-39ae-481a-836f-a428768d10ad-oDsf1Dz" alt="Build Status" height=50></a>
+<label><b></b></label>
+<a href="#"><img src="https://www.contraloriasai.gov.co/images/LOGO%20SIA%20CONTRALORIAS%20RENDICION%20DE%20CUENTAS/Logo_SIA_Contralorias_Rendicuentas.jpg" alt="Build Status" height=50></a>
+<a href="#"><img src="https://www.supersalud.gov.co/es-co/Paginas/Protecci%C3%B3n%20al%20Usuario/chatBotTest/recursos-chatbot-ciudadanos/img/logo-supersalud.png" alt="Build Status" height=50></a>
+  
 </p>
 
 
