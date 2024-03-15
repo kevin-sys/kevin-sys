@@ -10,32 +10,53 @@ Desarrollador Web utilizando [Spring Boot](https://spring.io/) para la construcc
 
 ## Sígueme en
 
-<p align="center">
-  <br>
-  <label><b>Sigueme en</b></label>
-  <br>
-  <a href="https://www.linkedin.com/in/kevin-g%C3%B3mez-cantillo-1aba6a165/"><img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="LinkedIn" height=50></a>
-  <a href="mailto:servidorkgc@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Email" height=50></a>
-  <a href="https://web.facebook.com/kevingc99"><img src="https://icon-library.com/images/facebook-icon-25x25/facebook-icon-25x25-18.jpg" alt="Facebook" height=50></a>
-  <a href="https://api.whatsapp.com/send?phone=573113940272"><img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG95147.png" alt="WhatsApp" height=50></a>
-</p>
+<div class="card-deck">
+  <div class="card border-0 bg-transparent">
+    <a href="https://www.linkedin.com/in/kevin-g%C3%B3mez-cantillo-1aba6a165/">
+      <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" class="card-img-top" alt="LinkedIn">
+    </a>
+  </div>
+  <div class="card border-0 bg-transparent">
+    <a href="mailto:servidorkgc@gmail.com">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" class="card-img-top" alt="Email">
+    </a>
+  </div>
+  <div class="card border-0 bg-transparent">
+    <a href="https://web.facebook.com/kevingc99">
+      <img src="https://icon-library.com/images/facebook-icon-25x25/facebook-icon-25x25-18.jpg" class="card-img-top" alt="Facebook">
+    </a>
+  </div>
+  <div class="card border-0 bg-transparent">
+    <a href="https://api.whatsapp.com/send?phone=573113940272">
+      <img src="https://pngimg.com/uploads/whatsapp/whatsapp_PNG95147.png" class="card-img-top" alt="WhatsApp">
+    </a>
+  </div>
+</div>
 
 ## Lenguajes y herramientas
 
-<p align="center">
-  <br>
-  <label><b>Lenguajes y herramientas</b></label>
-  <br>
-  <br>
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" height=50></a>
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="Spring Boot" height=50></a>
-  <label><b></b></label>
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="HTML5" height=50></a>
-  <label><b></b></label>
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="CSS3" height=50></a>
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" alt="JavaScript" height=50></a>
-  <label><b></b></label>
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="MySQL" height=50></a>
-  <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/2748/2748941.png" alt="MongoDB" height=50></a>
-  <label><b></b></label>
-</p>
+<div class="card-deck">
+  <div class="card border-0 bg-transparent">
+    <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" class="card-img-top" alt="Java">
+  </div>
+  <div class="card border-0 bg-transparent">
+    <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" class="card-img-top" alt="Spring Boot">
+  </div>
+  <div class="card border-0 bg-transparent">
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" class="card-img-top" alt="HTML5">
+  </div>
+  <div class="card border-0 bg-transparent">
+    <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" class="card-img-top" alt="CSS3">
+  </div>
+  <div class="card border-0 bg-transparent">
+    <img src="https://cdn-icons-png.flaticon.com/512/143/143655.png" class="card-img-top" alt="JavaScript">
+  </div>
+  <div class="card border-0 bg-transparent">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" class="card-img-top" alt="MySQL">
+  </div>
+  <div class="card border-0 bg-transparent">
+    <img src="https://cdn-icons-png.flaticon.com/512/2748/2748941.png" class="card-img-top" alt="MongoDB">
+  </div>
+  <!-- Agrega más imágenes según sea necesario -->
+</div>
+
