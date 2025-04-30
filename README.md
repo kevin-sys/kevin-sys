@@ -3,6 +3,7 @@
 - 💡 Developer Backend e Ingeniero de Sistemas de la: https://www.unicesar.edu.co/index.php/es/
 - ⚙Ingeniero de sistemas en INSTITUTO DEPARTAMENTAL DE REHABILITACION Y EDUCACION ESPECIAL DEL CESAR https://idreec.gov.co/
 - 💻 Desarrollador Web en la tecnologia https://spring.io/ la cual uso para la construcción de microservicios API
+- 👨🏻‍🏫 Monitor de Ciberseguridad en el programa https://talentotech.gov.co/portal/
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/sketchy/bootstrap.min.css" integrity="sha384-RxqHG2ilm4r6aFRpGmBbGTjsqwfqHOKy1ArsMhHusnRO47jcGqpIQqlQK/kmGy9R" crossorigin="anonymous">
