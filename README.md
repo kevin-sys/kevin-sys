@@ -9,12 +9,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/sketchy/bootstrap.min.css" integrity="sha384-RxqHG2ilm4r6aFRpGmBbGTjsqwfqHOKy1ArsMhHusnRO47jcGqpIQqlQK/kmGy9R" crossorigin="anonymous">
 <p align="center">
 <br>
-<label><b>Sigueme en</b></label>
-<br>
-<a href="https://www.linkedin.com/in/kevin-g%C3%B3mez-cantillo-1aba6a165/"><img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="Build Status" height=50></a>
-<a href="mailto:servidorkgc@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Build Status"
-<label><b>Lenguajes y herramientas</b></label>
-<br>
+
 <br>
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Build Status" height=50></a>
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="Build Status" height=50></a>
