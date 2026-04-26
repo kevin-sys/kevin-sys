@@ -12,11 +12,7 @@
 <label><b>Sigueme en</b></label>
 <br>
 <a href="https://www.linkedin.com/in/kevin-g%C3%B3mez-cantillo-1aba6a165/"><img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="Build Status" height=50></a>
-<a href="mailto:servidorkgc@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Build Status" height=50></a>
-<a href="https://web.facebook.com/kevingc99"><img src="https://icon-library.com/images/facebook-icon-25x25/facebook-icon-25x25-18.jpg" alt="Build Status" height=50></a>
-<label><b></b></label>
-<p align="center">
-<br>
+<a href="mailto:servidorkgc@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Build Status"
 <label><b>Lenguajes y herramientas</b></label>
 <br>
 <br>
